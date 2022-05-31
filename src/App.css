@@ -5,6 +5,12 @@
   background-color: black;
 }
 
+.app{
+  border:1px solid white;
+  
+}
+
+
 .searchdiv{
   display: flex;
 }
